@@ -1,0 +1,4 @@
+.Hover:hover {
+    scale:0.8;
+    transition: ease-in-out 1s;
+}
